@@ -48,3 +48,12 @@ Day 3:
   I figured out how the sorting mechanism works and wrote it from scratch on my own.
 
   Commit 1: message 'Value object of micrograd, topological sort and backpropagation'
+
+Day 4:
+  As I followed along the video I became more used to OOP and since I understand derivatives, getting the hang of backpropagation was no big deal too.
+  In this day I learned how to build an MLP ( multi-layer-perceptron ), a fairly simple on that takes multiple arrays of inputs and tries to give out a 
+  unique specified result for each input. 
+
+  After following along the tutorial I made a brand new file and tried to code the micrograd and MPL on my own which I am happy to say I succeeded in.
+
+  Commit 3: message 'wrote the entire code on my own without help including making a simple MLP'
